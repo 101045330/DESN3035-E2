@@ -5,6 +5,6 @@ import React from "react";
 export default function Content() {
 
     return <>
-        <h1>Hello, Next.js!</h1>
+        <h1>Hello MIN, Welcome to the Next.js !!</h1>
     </>
 }
